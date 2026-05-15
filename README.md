@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/toplogo.png" width="600" alt="toplogo"/><br/>
       微信公众号：<strong>涛哥威武</strong><br>
   <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/endlogo.png" width="600" alt="endlogo"/><br/>
-  <strong>Fuck the leather, fuck the lace, Here's to the bird who sits on yer face。.</strong>
+  <strong>Fuck the leather, fuck the lace, Here's to the bird who sits on yer face.</strong>
 </p>
 
 ## 🛠️ Tech Stack
