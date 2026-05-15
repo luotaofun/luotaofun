@@ -15,6 +15,14 @@
 
 ---
 
+## About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/toplogo.png" width="600" alt="toplogo"/>
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/endlogo.png" width="600" alt="endlogo"/>
 </p>
@@ -30,34 +38,6 @@
   "ai/ml":    ["ASR", "TTS", "LLM", "OpenAI API"]
 }
 ```
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/luotaofun/TaoTool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luotaofun&repo=TaoTool&theme=graywhite&border_color=E2E6ED&title_color=4F6CF7" />
-  </a>
-  <a href="https://github.com/luotaofun/VideoCaptioner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luotaofun&repo=VideoCaptioner&theme=graywhite&border_color=E2E6ED&title_color=4F6CF7" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luotaofun&show_icons=true&count_private=true&theme=graywhite&border_color=E2E6ED&title_color=4F6CF7" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luotaofun&layout=compact&theme=graywhite&border_color=E2E6ED&title_color=4F6CF7" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luotaofun&theme=flat&column=5&margin-w=10&margin-h=10" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luotaofun&theme=github-light&bg_color=FFFFFF&color=5E6673&line=4F6CF7&point=4F6CF7&area=true&hide_border=true" />
-</p>
 
 ---
 
