@@ -10,18 +10,22 @@
   <a href="https://github.com/luotaofun"><img src="https://img.shields.io/badge/GitHub-luotaofun-4F6CF7?style=flat-square&logo=github"/></a>
   <a href="mailto:luotao@gmail.com"><img src="https://img.shields.io/badge/Email-luotao@gmail.com-4F6CF7?style=flat-square&logo=gmail"/></a>
   <img src="https://img.shields.io/badge/Focus-AI+Audio+Web-4F6CF7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python+JS+TS-4F6CF7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Java+Python-4F6CF7?style=flat-square"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/endlogo.png" width="600" alt="endlogo"/>
+</p>
 
 ## 🛠️ Tech Stack
 
 ```json
 {
-  "languages": ["Python", "JavaScript", "TypeScript"],
+  "languages": ["Java", "Python", "JavaScript", "TypeScript"],
   "frontend": ["HTML5/CSS3", "React", "Vue"],
-  "backend":  ["Flask", "FastAPI", "Node.js"],
+  "backend":  ["Spring Boot", "Flask", "FastAPI", "Node.js"],
   "tools":    ["Git", "Docker", "FFmpeg"],
   "ai/ml":    ["ASR", "TTS", "LLM", "OpenAI API"]
 }
@@ -56,6 +60,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/endlogo.png" width="400" alt="endlogo"/>
+</p>
 
 <p align="center">
   📫 <strong>联系我</strong>：<br>
