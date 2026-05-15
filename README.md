@@ -10,8 +10,8 @@
   <a href="mailto:luotao@gmail.com"><img src="https://img.shields.io/badge/Email-luotao@gmail.com-4F6CF7?style=flat-square&logo=gmail"/></a>
   <img src="https://img.shields.io/badge/Focus-AI+Audio+Web-4F6CF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/Language-Java+Python-4F6CF7?style=flat-square"/><br/>
-      微信公众号：<strong>涛哥威武</strong><br>
   <img src="https://raw.githubusercontent.com/luotaofun/luotaofun/main/endlogo.png" width="600" alt="endlogo"/><br/>
+微信公众号：<strong>涛哥威武</strong><br>
   <strong>Fuck the leather, fuck the lace, Here's to the bird who sits on yer face.</strong>
 </p>
 
